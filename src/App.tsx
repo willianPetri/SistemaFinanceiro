@@ -23,6 +23,7 @@ const App = () => {
       </C.Header>
       <C.Body>
         
+        
 
         <TableArea list={filteredList} />
 
