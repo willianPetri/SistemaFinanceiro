@@ -24,10 +24,10 @@ This project was developed at the Bonieky Lacerda Youtube Channel with the follo
 ```bash
 
   # Clone this repository
-  $ git clone https://github.com/willianPetri/GoRestaurant-web.git
+  $ git clone https://github.com/willianPetri/SistemaFinanceiro.git
 
   # Go into the repository
-  $ cd GoRestaurant-web
+  $ cd SistemaFinanceiro
 
   # Install dependecies
   $ yarn install
